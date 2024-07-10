@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "0.4",
+    "description": "The label for version 0.4"
+  },
+  "sidebar.docs.category.Operator Guide": {
+    "message": "Operator Guide",
+    "description": "The label for category Operator Guide in sidebar docs"
+  },
+  "sidebar.docs.category.Registering Clusters": {
+    "message": "Registering Clusters",
+    "description": "The label for category Registering Clusters in sidebar docs"
+  },
+  "sidebar.docs.category.User Guide": {
+    "message": "User Guide",
+    "description": "The label for category User Guide in sidebar docs"
+  },
+  "sidebar.docs.category.Advanced Users": {
+    "message": "Advanced Users",
+    "description": "The label for category Advanced Users in sidebar docs"
+  },
+  "sidebar.docs.category.Installation": {
+    "message": "Installation",
+    "description": "The label for category Installation in sidebar docs"
+  },
+  "sidebar.docs.category.Changelog": {
+    "message": "Changelog",
+    "description": "The label for category Changelog in sidebar docs"
+  }
+}
