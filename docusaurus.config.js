@@ -96,7 +96,11 @@ module.exports = {
               className: 'navbar__icon navbar__suse',
             },
           ]
-        }
+        },
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
       ],
     },
     footer: {
@@ -133,4 +137,13 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ja'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+    },
+  },
 };
