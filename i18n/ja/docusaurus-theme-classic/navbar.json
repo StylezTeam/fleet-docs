@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Fleet",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.More from SUSE": {
+    "message": "More from SUSE",
+    "description": "Navbar item with label More from SUSE"
+  },
+  "item.label.Rancher": {
+    "message": "Rancher",
+    "description": "Navbar item with label Rancher"
+  },
+  "item.label.Elemental": {
+    "message": "Elemental",
+    "description": "Navbar item with label Elemental"
+  },
+  "item.label.Harvester": {
+    "message": "Harvester",
+    "description": "Navbar item with label Harvester"
+  },
+  "item.label.Rancher Desktop": {
+    "message": "Rancher Desktop",
+    "description": "Navbar item with label Rancher Desktop"
+  },
+  "item.label.More Projects...": {
+    "message": "More Projects...",
+    "description": "Navbar item with label More Projects..."
+  }
+}
