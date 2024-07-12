@@ -59,7 +59,7 @@ Helmチャートのダウンロードに関連するHelmオプションは無視
 
 リソース内で`fleet.yaml`を使用することはできません。これはバンドルを作成するためにfleet-cliによってのみ使用されます。
 
-`spec.targetRestrictions`フィールドは役に立ちません。これは`spec.targets`で指定されたターゲットの許可リストであり、バンドル内でターゲットが明示的に指定されているため必要ありません。空の`targetRestrictions`はデフォルトで許可されます。
+`spec.targetRestrictions`フィールドは役に立ちません。これは`spec.targets`で指定されたターゲットの許可リストであり、バンドル内で`ターゲット`が明示的に指定されているため必要ありません。空の`targetRestrictions`はデフォルトで許可されます。
 
 ## Helmチャートをバンドルに変換する
 

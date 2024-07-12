@@ -141,7 +141,7 @@ FleetコントローラーがデプロイされているラベルID（上記の�
 :::caution
 Rancherのダウンストリームクラスターは自動的にFleetに登録されます。ユーザーはRancherの`Continuous Delivery`でFleetにアクセスできます。
 
-以下に説明するマルチクラスターインストールは、スタンドアロンのFleetでのみカバーされており、Rancher QAによってテストされていません。
+以下に説明するマルチクラスターインストールは、スタンドアロンのFleetで  **のみ** カバーされており、Rancher QAによってテストされていません。
 :::
 
 
@@ -229,9 +229,6 @@ ZXItY2FAMTU5ODM5MDQ0NzAeFw0yMDA4MjUyMTIwNDdaFw0zMDA4MjMyMTIwNDda
 MCMxITAfBgNVBAMMGGszcy1zZXJ2ZXItY2FAMTU5ODM5MDQ0NzBZMBMGByqGSM49
 AgEGCCqGSM49AwEHA0IABDXlQNkXnwUPdbSgGz5Rk6U9ldGFjF6y1YyF36cNGk4E
 0lMgNcVVD9gKuUSXEJk8tzHz3ra/+yTwSL5xQeLHBl+jIzAhMA4GA1UdDwEB/wQE
-```
-```
-```
 AwICpDAPBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49BAMCA0cAMEQCIFMtZ5gGDoDs
 ciRyve+T4xbRNVHES39tjjup/LuN4tAgAiAteeB3jgpTMpZyZcOOHl9gpZ8PgEcN
 KDs/pb3fnMTtpA==
