@@ -11,6 +11,15 @@ module.exports = {
   organizationName: 'rancher', // Usually your GitHub org/user name.
   projectName: 'fleet-docs', // Usually your repo name.
   trailingSlash: false,
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'ja'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+    },
+  },
   themeConfig: {
     colorMode: {
       // "light" | "dark"
@@ -137,13 +146,4 @@ module.exports = {
       },
     ],
   ],
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'ja'],
-    localeConfigs: {
-      en: {
-        htmlLang: 'en-GB',
-      },
-    },
-  },
 };
