@@ -1,4 +1,3 @@
-```markdown
 import {versions} from '@site/src/fleetVersions';
 import CodeBlock from '@theme/CodeBlock';
 import Tabs from '@theme/Tabs';
@@ -286,4 +285,3 @@ fleet-controller-64f49d756b-n57wq   1/1     Running   0          3m21s
 </Tabs>
 
 この時点で、Fleetマネージャーが準備完了です。これで[Fleetマネージャーにクラスターを登録](./cluster-registration.md)し、[Gitリポジトリを追加](./gitrepo-add.md#create-gitrepo-instance)できます。
-```

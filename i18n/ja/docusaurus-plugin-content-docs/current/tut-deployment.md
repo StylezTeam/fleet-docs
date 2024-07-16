@@ -1,4 +1,3 @@
-```markdown
 import CodeBlock from '@theme/CodeBlock';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -326,9 +325,6 @@ spec:
         env: dev
 
   - name: test
-```
-```
-```yaml
     clusterSelector:
       matchLabels:
         env: test
@@ -466,4 +462,3 @@ spec:
 
 </TabItem>
 </Tabs>
-```

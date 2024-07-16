@@ -1,4 +1,3 @@
-```markdown
 import {versions} from '@site/src/fleetVersions';
 import CodeBlock from '@theme/CodeBlock';
 import Tabs from '@theme/Tabs';
@@ -83,4 +82,3 @@ frontend   3/3     3            3           116m
 ```
 
 楽しんで、[ドキュメント](https://rancher.github.io/fleet)を読んでください。
-```
